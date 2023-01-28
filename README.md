@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumuduPriyabhashinee&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumuduPriyabhashinee)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=php)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
