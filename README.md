@@ -1,8 +1,8 @@
 ### Hi, I'm Sumudu Priyabhashinee 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumuduPriyabhashinee&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumuduPriyabhashinee&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumuduPriyabhashinee&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumuduPriyabhashinee&count_private=true&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=php)](https://github.com/anuraghazra/github-readme-stats)
 <!--
