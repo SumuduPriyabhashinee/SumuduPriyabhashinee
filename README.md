@@ -2,7 +2,7 @@
  A Passionate individual in the IT field who is eager to explore new things. Face challenges with self-confidence. Have self-gained
 solid experience in technical skills and excellent interpersonal skills. Good at communication, critical thinking, and teamwork.
 
-- 🌱 I’m currently reading for B.Sc.(Hons.) in Information Technology
+- 🌱 I’m final year undergraduate who will be completing B.Sc.(Hons.) in Information Technology degree on May,2023.
 - 🔭 I’m currently seeking a position as a Software Engineer to gain professional experience in the field of IT
 - 📫 How to reach me: gasumudup@gmail.com 
 
