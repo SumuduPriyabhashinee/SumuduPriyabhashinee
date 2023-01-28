@@ -2,9 +2,9 @@
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumuduPriyabhashinee&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumuduPriyabhashinee&count_private=true&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumuduPriyabhashinee&count_private=true&show_icons=true&theme=tokyonight&hide=contribs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=php)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=php&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
